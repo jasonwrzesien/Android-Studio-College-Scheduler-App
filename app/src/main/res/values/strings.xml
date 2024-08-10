@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">2340 Proj 01</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Added new string resources -->
+    <string name="my_calendar_application">My Calendar Application</string>
+    <string name="day_monday">Mon</string>
+    <string name="day_tuesday">Tues</string>
+    <string name="day_wednesday">Wed</string>
+    <string name="day_thursday">Thurs</string>
+    <string name="day_friday">Fri</string>
+    <string name="day_saturday">Sat</string>
+    <string name="day_sunday">Sun</string>
+    <string name="date_placeholder">xx/xx</string>
+    <string name="ToDoAddPrompt">Add Text</string>
+    <string name="ToDoAddButton">Add</string>
+</resources>
