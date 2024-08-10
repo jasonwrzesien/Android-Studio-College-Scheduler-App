@@ -1,2 +1,2 @@
 # Android-Studio-College-Scheduler-App
-A simple application made in Android Studio that allows users to save their class/homework/project schedule easily.
+This College Scheduler App helps college students effectively and efficiently plan their academic schedules and keep track of their week at a glance. Students can track their classes, assignments, and exams through the app and all information is displayed by week. The main functions of the app allows for adding and editing of classes, assignments, exams; keeping track of dates, times, instructors, and locations of classes and exams; managing a to-do list. Overall the application has easy to use UI, is supported by most devices, and meets the five user's needs as mentioned in the assignment criteria.
